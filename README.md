@@ -6,3 +6,7 @@ Learning C/C++
 Interested in web development
 
 Goal: Build real-world projects and contribute to open source
+
+## Projects
+
+Visitor Counting System - A project that counts and monitors the number of visitors entering and leaving an area using sensors and a microcontroller.
